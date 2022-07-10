@@ -1,4 +1,4 @@
-package com.katsup.state
+package com.katsup.state;
 
 public class Train implements TravelMethod {
     @Override
