@@ -1,4 +1,4 @@
-package.katsup.com.state
+package katsup.com.state
 
 public class Car implements TravelMethod{
     @Override
