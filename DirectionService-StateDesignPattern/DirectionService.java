@@ -1,4 +1,4 @@
-package.com.katsup.state
+package com.katsup.state
 
 public class DirectionService {
     private TravelMethod travelMethod;
