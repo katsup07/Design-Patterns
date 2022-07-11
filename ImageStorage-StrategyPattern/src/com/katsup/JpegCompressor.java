@@ -1,4 +1,4 @@
-package com.katsup.strategy;
+package src.com.katsup;
 
 public class JpegCompressor implements Compressor {
     @Override

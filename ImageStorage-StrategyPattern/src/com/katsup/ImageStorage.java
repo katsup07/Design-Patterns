@@ -1,4 +1,4 @@
-package com.katsup.strategy;
+package src.com.katsup;
 
 public class ImageStorage {
     public void store(String fileName, Compressor compressor, Filter filter){
