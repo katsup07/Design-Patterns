@@ -10,7 +10,7 @@ public class ProductCollection {
     products.add(product);
   }
 
-  public Product pop() {
+  public Product pop(){
     var lastIndex = products.size() - 1;
     var lastItem = products.get(lastIndex);
     products.remove(lastIndex);
@@ -18,21 +18,21 @@ public class ProductCollection {
     return lastItem;
   }
 
-  public Iterator createIterator() {
+  public Iterator createIterator(){
     return new ArrayListIterator(this);
   }
 
-  public class ArrayListIterator implements Iterator {
+  public class ArrayListIterator implements Iterator{
     private ProductCollection collection;
     private int index;
 
-    public ArrayListIterator(ProductCollection collection) {
+    public ArrayListIterator(ProductCollection collection){
       this.collection = collection;
     }
 
     @Override
     public boolean hasNext() {
-      return index < collection.products.size();
+      return index<collection.products.size();
     }
 
     @Override
