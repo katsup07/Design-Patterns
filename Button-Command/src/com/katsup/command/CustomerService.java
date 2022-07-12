@@ -1,4 +1,4 @@
-package com.katsup.command;
+package src.com.katsup.command;
 
 public class CustomerService {
     public void addCustomer(){
