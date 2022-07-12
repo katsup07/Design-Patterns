@@ -1,4 +1,4 @@
-package com.katsup.command;
+package src.com.katsup.command;
 
 import com.katsup.command.fx.Command;
 
