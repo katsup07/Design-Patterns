@@ -1,4 +1,4 @@
-package com.codewithmosh1.mediator;
+package com.katsup.mediatorWithObserver;
 
 public class TextBox extends UIControl {
     private String content;
