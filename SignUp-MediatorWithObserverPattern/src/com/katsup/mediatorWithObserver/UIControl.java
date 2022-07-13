@@ -1,4 +1,4 @@
-package com.codewithmosh1.mediator;
+package com.katsup.mediatorWithObserver;
 
 import java.util.ArrayList;
 import java.util.List;
