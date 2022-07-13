@@ -1,4 +1,4 @@
-package com.katsup.mediator;
+package src.com.katsup.mediator;
 
 public class Button extends UIControl{
     private boolean isEnabled;
