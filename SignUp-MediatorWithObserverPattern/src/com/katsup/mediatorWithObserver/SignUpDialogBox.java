@@ -1,4 +1,4 @@
-package com.codewithmosh1.mediator;
+package com.katsup.mediatorWithObserver;
 
 public class SignUpDialogBox {
     // TODO - Change these to private. They are only public for testing.
