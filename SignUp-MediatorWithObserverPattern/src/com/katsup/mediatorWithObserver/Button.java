@@ -1,4 +1,4 @@
-package com.codewithmosh1.mediator;
+package com.katsup.mediatorWithObserver;
 
 public class Button extends UIControl {
     private boolean isEnabled;
