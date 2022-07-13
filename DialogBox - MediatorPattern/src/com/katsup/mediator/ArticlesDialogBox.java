@@ -1,4 +1,4 @@
-package com.katsup.mediator;
+package src.com.katsup.mediator;
 
 public class ArticlesDialogBox extends DialogBox{
     private ListBox articlesListBox = new ListBox(this);
