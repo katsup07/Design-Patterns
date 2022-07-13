@@ -1,4 +1,4 @@
-package com.katsup.mediator;
+package src.com.katsup.mediator;
 
 public class UIControl {
     protected DialogBox dialogBox; // Each UIControl's dialogue box
