@@ -1,4 +1,4 @@
-package com.katsup.mediator;
+package src.com.katsup.mediator;
 
 public class TextBox extends UIControl{
     private String content;
