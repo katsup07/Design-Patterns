@@ -5,6 +5,7 @@ public class ArticlesDialogBox extends DialogBox{
     private TextBox titleTextBox = new TextBox(this);
     private Button saveButton = new Button(this);
 
+    // This method is for testing purposes only
     public void simulateUserInteraction(){
         articlesListBox.setSelection("Article 1");
         titleTextBox.setContent("");
