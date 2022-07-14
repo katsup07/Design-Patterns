@@ -1,7 +1,5 @@
 package com.katsup.visitor;
 
-import com.katsup.chainOfResponsibility.*;
-
 public class Main {
     public static void main(String[] args) {
         var document = new HtmlDocument();
