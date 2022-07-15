@@ -4,6 +4,4 @@ public interface Iterator { // Could use Iterator<T> to be more general instead 
     boolean hasNext();
     String getNext();
     void next();
-
-    //boolean isDone();
 }
